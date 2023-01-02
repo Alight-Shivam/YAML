@@ -1,0 +1,13 @@
+<!--It is not human Readable but still used by maney companies--> 
+
+<?xml version="1.0" encoding="UTF-8">
+<School name = "YKS" pricipal="Someone">
+   <Students>
+     <Student>
+       <rno>45</rno>
+       <name>"Alight"</name>
+       <marks>95</marks>
+     </Student>
+   </Students>
+
+</School>

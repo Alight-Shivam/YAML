@@ -1,0 +1,41 @@
+YAML  Course :-
+
+- Introduction
+- Syntax
+- Properties/Datatypes
+- YAML tools
+
+
+YAML - Yet Another MarkUp Language
+New full form - YAML Ain't MarkUp Language
+
+What is YAML ?
+
+-- Data format used to exhange data
+-- Similar to XML and JSON
+-- In YAML, you can store only data, not comands.
+-- It is case sensitive
+
+Data Serialization :
+
+object ==> stream ==> Database ==> stream ==> object
+
+
+Object(Code+Data) --> "Serialiser"(stream of byte) -->YAML/file,Database,Memory
+
+Data Serialisation languages : YAML,XML(Extensible markup languange),JSON(Javascript Object Notation)
+
+It is used in -
+
+- Configuration files eg - Kubernetes and Docker etc.
+- logs, Caches etc.
+
+BENEFITS :
+
+- Simple and easy to read
+- It has a strict syntax - Indentation is important
+- Easily convertable to JSON, XML
+- Most programming languages use YAML
+- More powerful when representing complex data
+- Parsers, etc various tools available
+- Parsing(reading the data) is easy 

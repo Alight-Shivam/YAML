@@ -1,0 +1,30 @@
+# Key-value pairs
+
+"apple" : "I am a red fruit"
+1: "This is Shivam's Roll number"
+
+---
+
+# lists
+
+- apple
+- mango
+- banana
+- Apple
+
+---
+
+# Block style list
+cities:     
+ - new delhi
+ - mumbai
+ - gujarat
+
+---
+
+# Flow style  list
+cities: [new delhi, mumbai,bangalore]
+
+---
+{mango: "yellow fruit", age: 56}
+... 
